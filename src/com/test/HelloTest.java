@@ -7,5 +7,6 @@ public class HelloTest {
         System.out.println("hot-fix");
         System.out.println("hot-test");
         System.out.println("hello test");
+        System.out.println("this is a test");
     }
 }
