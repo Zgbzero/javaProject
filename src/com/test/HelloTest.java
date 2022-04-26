@@ -5,5 +5,6 @@ public class HelloTest {
         System.out.println("hello world!");
         System.out.println("hello git");
         System.out.println("hot-fix");
+        System.out.println("hot-test");
     }
 }
